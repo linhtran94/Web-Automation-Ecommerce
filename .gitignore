@@ -1,0 +1,22 @@
+# Config files #
+
+
+# OS generated files #
+.DS_Store
+Thumbs.db
+.tmp/
+*.pyc
+
+
+# IDE #
+.idea/
+*.swp
+.awcache
+.vscode/
+
+# Generated source-code #
+reports/
+venv/
+logs/
+geckodriver.log
+
